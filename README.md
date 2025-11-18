@@ -5,12 +5,10 @@
 - 😄 Pronouns: Ele/dele
 
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
-
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ErnestoSESB&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"
-    style="width: 150em; max-width: 100%;"
+    src=https://github-readme-stats.vercel.app/api?username=ErnestoSESB&show_icons=true&theme=cobalt&include_all_commits=true"
+    style="width: 45em; max-width: 100%;"
   />
-
   <div style="
     display: flex;
     width: 150em;
@@ -23,17 +21,12 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoSESB&layout=compact&langs_count=16&theme=cobalt"
       style="width: 30em; max-width: 100%;
     />
+      <br>
+      ##
     <div style="
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 1.2em;
-      align-items: center;
-      justify-items: center;
-      padding: 1em;
-      background: rgba(255,255,255,0.05);
-      border-radius: 10px;
-      height: fit-content;
+      display: inline_block
     ">
+    <br>
       <img align="center" alt="Silvio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Silvio-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
       <img align="center" alt="Silvio-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
