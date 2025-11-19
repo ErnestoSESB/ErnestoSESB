@@ -60,4 +60,4 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
 
-![Snake animation](https://github.com/ErnestoSESB/ErnestoSESB/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
