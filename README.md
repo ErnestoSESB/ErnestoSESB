@@ -26,6 +26,9 @@
     ">
     
 ##
+
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+
     
   <br>
       <img align="center" alt="Silvio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -60,4 +63,4 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ErnestoSESB/ErnestoSESB/output/snake.svg" alt="Snake animation" />
