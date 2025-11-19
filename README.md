@@ -1,4 +1,4 @@
-## Opa, eae beleza? Me chamo Silvio👋
+## Hello, all right? I'am Silvio👋
 
 - 🔭 I’m currently working on fullstack
 - 🌱 I’m currently learning Python.
