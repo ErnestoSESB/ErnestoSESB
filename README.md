@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on fullstack
 - 🌱 I’m currently learning Python.
-- 😄 Pronouns: Ele/dele
+- 😄 Pronouns: He/Him
 
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
   <img 
