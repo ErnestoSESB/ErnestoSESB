@@ -7,10 +7,18 @@
 ## Stats
 
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
-  <img src=https://github-readme-stats.vercel.app/api?username=ErnestoSESB&show_icons=true&theme=cobalt&include_all_commits=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoSESB&layout=compact&langs_count=16&theme=cobalt">
-    
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ErnestoSESB&show_icons=true&theme=cobalt&include_all_commits=true"
+    style="width: 45rem; max-width: 100%; height: auto;"
+  />
 ##
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoSESB&layout=compact&langs_count=16&theme=cobalt"
+    style="width: 45rem; max-width: 100%; height: auto;"
+  />
+
+## Knowledge:
     
   <br>
       <img align="center" alt="Silvio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,8 +32,7 @@
       <img align="center" alt="Silvio-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
       <img align="center" alt="Silvio-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
       <img align="center" alt="Silvio-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"
-   </div>
-  </div>
+   
 </div>
 
 ## Languages:
