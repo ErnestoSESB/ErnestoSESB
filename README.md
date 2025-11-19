@@ -9,21 +9,10 @@
     src=https://github-readme-stats.vercel.app/api?username=ErnestoSESB&show_icons=true&theme=cobalt&include_all_commits=true"
     style="width: 45em; max-width: 100%;"
   />
-  <div style="
-    display: flex;
-    width: 150em;
-    max-width: 100%;
-    margin-top: 1em;
-    gap: 2em;
-    align-items: flex-start; 
-  ">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoSESB&layout=compact&langs_count=16&theme=cobalt"
       style="width: 30em; max-width: 100%;
     />
-    <div style="
-      display: inline_block
-    ">
     
 ##
     
