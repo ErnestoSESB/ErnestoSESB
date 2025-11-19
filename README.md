@@ -4,15 +4,11 @@
 - 🌱 I’m currently learning Python.
 - 😄 Pronouns: He/Him
 
+## Stats
+
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
-  <img 
-    src=https://github-readme-stats.vercel.app/api?username=ErnestoSESB&show_icons=true&theme=cobalt&include_all_commits=true"
-    style="width: 45em; max-width: 100%;"
-  />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoSESB&layout=compact&langs_count=16&theme=cobalt"
-      style="width: 30em; max-width: 100%;
-    />
+  <img src=https://github-readme-stats.vercel.app/api?username=ErnestoSESB&show_icons=true&theme=cobalt&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoSESB&layout=compact&langs_count=16&theme=cobalt">
     
 ##
     
