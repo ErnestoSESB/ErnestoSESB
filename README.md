@@ -1,4 +1,4 @@
-## Hello, all right? I'am Silvio👋
+## Dev FullStack | Django | Python | JavaScript
 
 - 🔭 I’m currently working as fullstack
 - 🌱 I’m currently learning Python.
