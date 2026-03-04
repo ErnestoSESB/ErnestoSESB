@@ -1,14 +1,15 @@
-## Dev FullStack | Django | Python | JavaScript
+## **`Dev FullStack | Django | Python | JavaScript`**
 
 - 🔭 I’m currently working as fullstack
 - 🌱 I’m currently learning Python.
 - 😄 Pronouns: He/Him
 
-<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ErnestoSESB&show_icons=true&theme=cobalt&include_all_commits=true" style="width: 45rem; max-width: 100%; height: auto;" /> ## 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoSESB&layout=compact&langs_count=16&theme=cobalt" style="width: 45rem; max-width: 100%; height: auto;" />
 
-## Knowledge:
+## **`statistics`**
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+    <img src="https://github-readme-stats.zcy.dev/api?username=ErnestoSESB&show_icons=true&theme=radical" />
+    
+## **`Knowledge:`**
     
   <br>
       <img align="center" alt="Silvio-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,7 +32,7 @@
    
 </div>
 
-## Languages:
+## **`Languages:`**
 
   🌐Português - Native/Perfect
    <br>
@@ -39,7 +40,7 @@
    <br>
   🌐Spanish - Low/Basic
 
-##
+## **`Contacts:`**
 <div> 
   <a href="https://instagram.com/e.silvio_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/users/1295145854159818884" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
